@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/luckydicecrypto/static/css/main.a4b8c2ec.css",
+    "main.js": "/luckydicecrypto/static/js/main.8b72cdf9.js",
+    "static/js/787.de6be981.chunk.js": "/luckydicecrypto/static/js/787.de6be981.chunk.js",
+    "static/media/logo.png": "/luckydicecrypto/static/media/logo.deb45c16178cb48ca5c2.png",
+    "index.html": "/luckydicecrypto/index.html",
+    "main.a4b8c2ec.css.map": "/luckydicecrypto/static/css/main.a4b8c2ec.css.map",
+    "main.8b72cdf9.js.map": "/luckydicecrypto/static/js/main.8b72cdf9.js.map",
+    "787.de6be981.chunk.js.map": "/luckydicecrypto/static/js/787.de6be981.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4b8c2ec.css",
+    "static/js/main.8b72cdf9.js"
+  ]
+}
