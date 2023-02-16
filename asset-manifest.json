@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/luckydicecrypto/static/css/main.5dca64a3.css",
-    "main.js": "/luckydicecrypto/static/js/main.a26c6422.js",
+    "main.js": "/luckydicecrypto/static/js/main.b8f50469.js",
     "static/js/787.de6be981.chunk.js": "/luckydicecrypto/static/js/787.de6be981.chunk.js",
     "static/media/logo.png": "/luckydicecrypto/static/media/logo.deb45c16178cb48ca5c2.png",
     "static/media/6.png": "/luckydicecrypto/static/media/6.d337334f2e0f99f603b4.png",
     "static/media/5.png": "/luckydicecrypto/static/media/5.0853c13492df9e9c564c.png",
     "index.html": "/luckydicecrypto/index.html",
     "main.5dca64a3.css.map": "/luckydicecrypto/static/css/main.5dca64a3.css.map",
-    "main.a26c6422.js.map": "/luckydicecrypto/static/js/main.a26c6422.js.map",
+    "main.b8f50469.js.map": "/luckydicecrypto/static/js/main.b8f50469.js.map",
     "787.de6be981.chunk.js.map": "/luckydicecrypto/static/js/787.de6be981.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5dca64a3.css",
-    "static/js/main.a26c6422.js"
+    "static/js/main.b8f50469.js"
   ]
 }
