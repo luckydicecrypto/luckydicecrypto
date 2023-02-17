@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/luckydicecrypto/static/css/main.789cfcf6.css",
-    "main.js": "/luckydicecrypto/static/js/main.89870c59.js",
+    "main.css": "/luckydicecrypto/static/css/main.6611236c.css",
+    "main.js": "/luckydicecrypto/static/js/main.8d177ee5.js",
     "static/js/787.de6be981.chunk.js": "/luckydicecrypto/static/js/787.de6be981.chunk.js",
     "static/media/logo.png": "/luckydicecrypto/static/media/logo.deb45c16178cb48ca5c2.png",
     "static/media/6.png": "/luckydicecrypto/static/media/6.d337334f2e0f99f603b4.png",
@@ -10,12 +10,12 @@
     "static/media/3.png": "/luckydicecrypto/static/media/3.f102c23cbc04af50c0b9.png",
     "static/media/2.png": "/luckydicecrypto/static/media/2.f44de406bc10443048c7.png",
     "index.html": "/luckydicecrypto/index.html",
-    "main.789cfcf6.css.map": "/luckydicecrypto/static/css/main.789cfcf6.css.map",
-    "main.89870c59.js.map": "/luckydicecrypto/static/js/main.89870c59.js.map",
+    "main.6611236c.css.map": "/luckydicecrypto/static/css/main.6611236c.css.map",
+    "main.8d177ee5.js.map": "/luckydicecrypto/static/js/main.8d177ee5.js.map",
     "787.de6be981.chunk.js.map": "/luckydicecrypto/static/js/787.de6be981.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.789cfcf6.css",
-    "static/js/main.89870c59.js"
+    "static/css/main.6611236c.css",
+    "static/js/main.8d177ee5.js"
   ]
 }
